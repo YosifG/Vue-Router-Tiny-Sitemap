@@ -24,4 +24,3 @@ const routes = [
 
 var generateSitemap = require("vue-router-tiny-sitemap")
 generateSitemap(routes, "baseURL.com")
-```javascript
