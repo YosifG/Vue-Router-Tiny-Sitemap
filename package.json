@@ -1,6 +1,6 @@
 {
   "name": "vue-router-tiny-sitemap",
-  "version": "7.0.1",
+  "version": "7.0.2",
   "description": "Minimum setup to generate a sitemap using Vue Router",
   "license": "MIT",
   "repository": "YosifG/Vue-Router-Tiny-Sitemap",
