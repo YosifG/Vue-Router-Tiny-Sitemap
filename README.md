@@ -4,7 +4,7 @@ A hassle-free way to generate a sitemap.xml for your Vue Single Page Application
 ## Installation
 ```
 
-npm i vue-router-sitemap
+npm i vue-router-tiny-sitemap
 
 ```
 
